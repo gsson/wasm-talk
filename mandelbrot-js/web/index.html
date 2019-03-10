@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang=en>
+<head>
+    <meta charset="utf-8"/>
+    <title>JavaScript Mandelbrot</title>
+    <style>
+        canvas {
+            padding: 0;
+            margin: auto;
+            display: block;
+            border: black 1px solid;
+            width: 1024px;
+            height: 768px;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+    </style>
+</head>
+<body>
+<canvas id="canvas" width="512px" height="384px"></canvas>
+<div id="fps">-</div>
+<script type="module">
+  import run from './js/main.js'
+
+  run()
+</script>
+</body>
+</html>

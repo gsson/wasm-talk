@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang=en>
+<head><meta charset="utf-8"/><title>Hello</title></head>
+<body>
+<div id="hello">-</div>
+<script>
+  WebAssembly.instantiateStreaming(fetch('wasm/hello.wasm'))
+    .then(wasm => {
+      const mod = wasm.instance
+      const main = mod.exports.hello
+      document.getElementById("hello").innerText = main()
+    })
+</script>
+</body>
+</html>
