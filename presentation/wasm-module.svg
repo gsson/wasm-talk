@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="327.75 495.75 384.5 432.5" width="384.5" height="432.5">
+  <defs>
+    <font-face font-family="Averta" font-size="24" panose-1="0 0 5 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-64" underline-thickness="38" slope="0" x-height="486" cap-height="710" ascent="978.002" descent="-258.00052" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Averta-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.1 
+    <dc:date>2019-03-19 21:24:10 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_11">
+        <rect x="328" y="496" width="384" height="432" fill="#5e5b7a"/>
+        <rect x="328" y="496" width="384" height="432" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(333 501)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="145.72" y="23">Module</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <rect x="336" y="792" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="336" y="792" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(341 808.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="55.44" y="23">Types</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="520" y="792" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="520" y="792" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(525 808.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="33.948" y="23">Functions</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="336" y="536" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="336" y="536" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(341 552.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="51.756" y="23">Tables</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="520" y="536" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="520" y="536" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(525 552.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="36.588" y="23">Elements</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="336" y="600" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="336" y="600" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(341 616.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="41.604" y="23">Memory</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="520" y="600" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="520" y="600" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(525 616.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="59.724" y="23">Data</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="336" y="664" width="368" height="64" fill="#2a1d3a"/>
+        <rect x="336" y="664" width="368" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(341 680.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="142.28" y="23">Global</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="336" y="728" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="336" y="728" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(341 744.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="44.808" y="23">Imports</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="520" y="728" width="184" height="64" fill="#2a1d3a"/>
+        <rect x="520" y="728" width="184" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(525 744.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="45.516" y="23">Exports</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="336" y="856" width="368" height="64" fill="#2a1d3a"/>
+        <rect x="336" y="856" width="368" height="64" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+        <text transform="translate(341 872.5)" fill="white">
+          <tspan font-family="Averta" font-size="24" font-weight="400" fill="white" x="152.156" y="23">Start</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

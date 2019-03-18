@@ -1,0 +1,18 @@
+mandelbrot-webgl
+├── crate
+│   ├── Cargo.toml
+│   └── src
+│       ├── lib.rs
+│       ├── mandelbrot64.frag
+│       ├── stats.rs
+│       ├── util.rs
+│       └── vertices.vert
+├── dist
+├── node_modules
+│   └── You all know what's going on in here
+├── package.json
+├── web
+│   ├── index.html
+│   └── js
+│       └── main.js
+└── webpack.config.js

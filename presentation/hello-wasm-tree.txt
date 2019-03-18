@@ -1,0 +1,9 @@
+hello-wasm/
+├── build.sh
+├── crate
+│   ├── Cargo.toml
+│   └── src
+│       └── lib.rs
+└── web
+    ├── index.html
+    └── wasm
