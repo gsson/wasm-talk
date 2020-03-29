@@ -382,7 +382,7 @@ There are several projects creating wrapping API to improve these things
 @snapend
 
 
-[caniuse](https://caniuse.com/#feat=wasm) says it's approaching 85%.
+[caniuse](https://caniuse.com/#feat=wasm) says it's exceeding 90%.
 @box[fragment](Probably enough for deploying internal apps today, and starting development of larger apps)
 
 ---
