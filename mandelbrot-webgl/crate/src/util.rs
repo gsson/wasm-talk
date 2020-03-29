@@ -15,7 +15,7 @@ pub fn performance() -> Performance {
         .expect("Failed to get performance object")
 }
 
-pub fn request_animation_frame(f: &Closure<FnMut()>) {
+pub fn request_animation_frame(f: &Closure<dyn FnMut()>) {
     window()
         .request_animation_frame(f.as_ref().unchecked_ref())
         .expect("request_animation_frame failed");

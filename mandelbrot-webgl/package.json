@@ -9,10 +9,10 @@
     "build": "webpack"
   },
   "devDependencies": {
-    "@wasm-tool/wasm-pack-plugin": "0.2.5",
-    "html-webpack-plugin": "^3.2.0",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1"
+    "@wasm-tool/wasm-pack-plugin": "1.2.0",
+    "html-webpack-plugin": "^4.0.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.10.3"
   }
 }
